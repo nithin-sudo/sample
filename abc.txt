@@ -1,1 +1,2 @@
 frst txt file
+creating merge conflict from local
