@@ -1,1 +1,2 @@
 secnd file
+adding new line from master
