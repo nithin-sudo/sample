@@ -1,3 +1,4 @@
 frst txt file
 creating merge conflict from local
 creating a merge conflict from remote
+hello there
